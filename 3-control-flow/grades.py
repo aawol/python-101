@@ -1,9 +1,7 @@
 # Grades 💯
 # Codédex
-
-grade = 58
-
-if grade >= 55:
-  print('You passed.')
+grade=int(input("youre grade of get"))
+if grade >=60:
+  print("You passed.")
 else:
-  print('You failed.')
+  print("You failed.")
